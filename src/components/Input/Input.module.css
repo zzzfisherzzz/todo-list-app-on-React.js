@@ -1,0 +1,7 @@
+input.addTask {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding-left: 10px;
+    outline: none;
+    height: 40px;
+    width: 400px;
+}
