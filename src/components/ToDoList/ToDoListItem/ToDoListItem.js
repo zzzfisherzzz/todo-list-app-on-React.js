@@ -12,6 +12,8 @@ class ToDoListItem extends Component {
                     <button className={styles.delete}><img src={del} alt="delete" /></button>
                 </li>
             </div>
+
+
         );
     }
 }
